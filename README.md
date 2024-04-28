@@ -14,7 +14,7 @@ cd InstaReport
 Run this script using bash
 
 ```
-./run.sh <username>
+./run.sh
 ```
 
 ## Author
